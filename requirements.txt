@@ -1,0 +1,20 @@
+# Core Discord bot functionality with voice support
+discord.py[voice]==2.3.2
+
+# HTTP requests (Reddit, public APIs, etc.)
+aiohttp==3.9.5
+
+# YouTube audio download for !play-yt
+yt-dlp==2024.5.27
+
+# Audio playback
+PyNaCl==1.5.0
+
+# For reading/writing JSON, random numbers, etc. (built-in — no need to list):
+# json
+# random
+# os
+# time
+
+# Optional but recommended (used by many bots)
+async-timeout==4.0.3
