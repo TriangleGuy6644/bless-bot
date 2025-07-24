@@ -23,7 +23,7 @@ class Quote(commands.Cog):
             color=discord.Color.purple()
         )
         embed.set_footer(text=f"— {author}" if author else "— Unknown")
-        embed.set_author(name="Inspirational Quote")
+        embed.set_author(name="Here's your quote!")
         await ctx.send(embed=embed)
 
 async def setup(bot):
