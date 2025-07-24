@@ -32,7 +32,7 @@ class HelpCommand(commands.Cog):
         # Social & Fun
         embed.add_field(
             name="🎭 Fun & Social",
-            value="`!crack`, `!beer`, `!fban`, `!raid`, `!liedetector`, `!heaven`, `!incinerate`, `!explode`, `!patrick`, `!assassinate`, `!execute`, `!pulverize`",
+            value="`!crack`, `!beer`, `!fban`, `!raid`, `!liedetector`, `!heaven`, `!incinerate`, `!explode`, `!patrick`, `!assassinate`, `!execute`, `!pulverize`, `!ann`",
             inline=False
         )
 
@@ -62,7 +62,7 @@ class HelpCommand(commands.Cog):
         # Fishing
         embed.add_field(
             name="🎣 Fishing",
-            value="`!fish`, `!fish stats`, `!fish inventory`, `!fish flex`, `!fish give`, `!fish list`",
+            value="`!fish`, `!fish stats`, `!fish inventory`, `!fish flex`, `!fish give`, `!fish list`, `'!sfish`, `!sfish stats`, `!sfish inventory`, `!sfish give`",
             inline=False
         )
 

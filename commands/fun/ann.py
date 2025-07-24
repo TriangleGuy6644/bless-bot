@@ -17,7 +17,7 @@ class Ann(commands.Cog):
     @commands.command()
     async def template(self, ctx, user: discord.Member = None):
         if user is None:
-            return await ctx.send("You need to mention someone! Example: `!template @user`")
+            return await ctx.send("You need to mention someone! Example: `!ann @user`")
 
         if not self.gifs:
             return await ctx.send("No GIFs have been added yet!")
@@ -25,7 +25,7 @@ class Ann(commands.Cog):
         chosen_gif = random.choice(self.gifs)
 
         embed = discord.Embed(
-            description=f"{ctx.author.mention} did something to {user.mention}!",
+            description=f"{ctx.author.mention} Ann'd {user.mention}!",
             color=discord.Color.blue()
         )
         embed.set_image(url=chosen_gif)
