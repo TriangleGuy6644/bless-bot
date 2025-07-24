@@ -15,7 +15,7 @@ class Ann(commands.Cog):
         ]
 
     @commands.command()
-    async def template(self, ctx, user: discord.Member = None):
+    async def ann(self, ctx, user: discord.Member = None, aliases=["annp5r"]):
         if user is None:
             return await ctx.send("You need to mention someone! Example: `!ann @user`")
 
