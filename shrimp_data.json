@@ -1,0 +1,79 @@
+{
+    "1369175793241952259": {
+        "last_fish": 1753316197,
+        "inventory": {
+            "Blue diamond shrimp": 1,
+            "Yellow sakura shrimp": 1,
+            "black rii shrimp": 1,
+            "blue rii shrimp": 1
+        },
+        "stats": {
+            "Grade B": 1,
+            "Grade F": 3
+        },
+        "last_sfish": 1753317236
+    },
+    "758215642460848138": {
+        "last_fish": 1753316329,
+        "inventory": {
+            "Orange sakura shrimp": 1,
+            "Blue rii shrimp": 6,
+            "Cherry shrimp": 1,
+            "Yellow sakura shrimp": 3,
+            "Sakura neocardina shrimp": 1,
+            "Wild neocardina shrimp": 1,
+            "Yellow fire shrimp": 1,
+            "Blue velvet shrimp": 2,
+            "Black rii shrimp": 2,
+            "Orange pumpkin shrimp": 1,
+            "Amano shrimp": 1,
+            "Blue dream shrimp": 1,
+            "Painted-fire-red neocardina shrimp": 1,
+            "purple dream shrimp": 1,
+            "yellow sakura shrimp": 4,
+            "black rii shrimp": 7,
+            "blue carbon rii shrimp": 1,
+            "green jade shrimp": 2,
+            "red rii shrimp": 1,
+            "blue rii shrimp": 3,
+            "cherry shrimp": 2,
+            "highgrade sakura shrimp": 1,
+            "sakura neocardina shrimp": 1,
+            "orange sakura shrimp": 1,
+            "yellow fire shrimp": 3,
+            "wild neocardina shrimp": 3,
+            "blue velvet shrimp": 1,
+            "blue dream shrimp": 1
+        },
+        "stats": {
+            "Grade C": 6,
+            "Grade F": 29,
+            "Grade D": 14,
+            "Grade S+": 3,
+            "Grade A": 2
+        },
+        "last_sfish": 1753317744
+    },
+    "662280043426349057": {
+        "last_fish": 1753316341,
+        "inventory": {
+            "Blue rii shrimp": 7,
+            "Yellow sakura shrimp": 3,
+            "Sakura neocardina shrimp": 2,
+            "Painted-fire-red neocardina shrimp": 1,
+            "Wild neocardina shrimp": 1,
+            "Yellow rii shrimp": 1,
+            "Black rii shrimp": 3,
+            "Blue dream shrimp": 1,
+            "highgrade sakura shrimp": 1
+        },
+        "stats": {
+            "Grade F": 12,
+            "Grade C": 3,
+            "Grade D": 3,
+            "Grade A": 1,
+            "Grade B": 1
+        },
+        "last_sfish": 1753317711
+    }
+}
