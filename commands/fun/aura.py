@@ -3,12 +3,13 @@ from discord.ext import commands
 import json
 import os
 import random
-
+# 1369175793241952259
 AURA_FILE = "aura_data.json"
 SPECIAL_USER_IDS = {
-    662280043426349057,
-    1369175793241952259,
-    1372572863193681991,
+    1369175793241952259, #me
+    662280043426349057, # moco
+    1372572863193681991, # gato
+    965662029870428181, # oscar
 }
 
 def load_data():

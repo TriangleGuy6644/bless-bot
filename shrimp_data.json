@@ -4,14 +4,18 @@
         "inventory": {
             "Blue diamond shrimp": 1,
             "Yellow sakura shrimp": 1,
-            "black rii shrimp": 1,
-            "blue rii shrimp": 1
+            "black rii shrimp": 2,
+            "blue rii shrimp": 2,
+            "blue carbon rii shrimp": 1,
+            "wild neocardina shrimp": 1,
+            "yellow sakura shrimp": 4
         },
         "stats": {
             "Grade B": 1,
-            "Grade F": 3
+            "Grade F": 10,
+            "Grade A": 1
         },
-        "last_sfish": 1753317236
+        "last_sfish": 1753400103
     },
     "758215642460848138": {
         "last_fish": 1753316329,
@@ -30,39 +34,41 @@
             "Blue dream shrimp": 1,
             "Painted-fire-red neocardina shrimp": 1,
             "purple dream shrimp": 1,
-            "yellow sakura shrimp": 12,
-            "black rii shrimp": 24,
+            "yellow sakura shrimp": 13,
+            "black rii shrimp": 25,
             "blue carbon rii shrimp": 1,
             "green jade shrimp": 4,
             "red rii shrimp": 2,
-            "blue rii shrimp": 12,
+            "blue rii shrimp": 13,
             "cherry shrimp": 4,
-            "highgrade sakura shrimp": 2,
-            "sakura neocardina shrimp": 1,
+            "highgrade sakura shrimp": 3,
+            "sakura neocardina shrimp": 2,
             "orange sakura shrimp": 2,
             "yellow fire shrimp": 5,
-            "wild neocardina shrimp": 13,
-            "blue velvet shrimp": 6,
-            "blue dream shrimp": 5,
+            "wild neocardina shrimp": 14,
+            "blue velvet shrimp": 7,
+            "blue dream shrimp": 7,
             "wood shrimp": 1,
-            "painted-fire-red neocardina shrimp": 4,
+            "painted-fire-red neocardina shrimp": 5,
             "choclate neocardina shrimp": 1,
             "bloody mary shrimp": 3,
             "blue diamond shrimp": 3,
             "orange rii shrimp": 2,
-            "solid-purple-dream neocardina shrimp": 1
+            "solid-purple-dream neocardina shrimp": 1,
+            "orange pumpkin shrimp": 1,
+            "amano shrimp": 1
         },
         "stats": {
-            "Grade C": 12,
-            "Grade F": 72,
-            "Grade D": 27,
-            "Grade S+": 3,
-            "Grade A": 6,
+            "Grade C": 14,
+            "Grade F": 76,
+            "Grade D": 31,
+            "Grade S+": 4,
+            "Grade A": 7,
             "Grade B": 6,
             "Grade S": 3,
             "Ultimate": 1
         },
-        "last_sfish": 1753323719
+        "last_sfish": 1753363755
     },
     "662280043426349057": {
         "last_fish": 1753316341,
@@ -77,70 +83,97 @@
             "Blue dream shrimp": 1,
             "highgrade sakura shrimp": 2,
             "blue carbon rii shrimp": 3,
-            "yellow sakura shrimp": 9,
-            "blue dream shrimp": 2,
-            "wild neocardina shrimp": 15,
-            "blue velvet shrimp": 4,
-            "blue rii shrimp": 10,
+            "yellow sakura shrimp": 11,
+            "blue dream shrimp": 6,
+            "wild neocardina shrimp": 18,
+            "blue velvet shrimp": 7,
+            "blue rii shrimp": 12,
             "amano shrimp": 2,
             "wood shrimp": 1,
-            "cherry shrimp": 3,
+            "cherry shrimp": 4,
             "high-grade-yellow-fire neocardina shrimp": 1,
-            "black rii shrimp": 6,
+            "black rii shrimp": 9,
             "blue carbon shrimp": 2,
             "green jade shrimp": 2,
             "choclate neocardina shrimp": 2,
             "sakura neocardina shrimp": 1,
-            "yellow fire shrimp": 4,
+            "yellow fire shrimp": 6,
             "orange sakura shrimp": 1,
             "golden back yellow shrimp": 1,
             "white rii shrimp": 1,
-            "painted-fire-red neocardina shrimp": 1
+            "painted-fire-red neocardina shrimp": 1,
+            "orange rii shrimp": 1,
+            "red rii shrimp": 1
         },
         "stats": {
-            "Grade F": 52,
-            "Grade C": 8,
-            "Grade D": 17,
+            "Grade F": 61,
+            "Grade C": 10,
+            "Grade D": 27,
             "Grade A": 5,
-            "Grade B": 3,
+            "Grade B": 4,
             "Grade S": 6,
             "Grade S+": 2
         },
-        "last_sfish": 1753325744
+        "last_sfish": 1753403117
     },
     "1255341107324260458": {
-        "last_sfish": 1753325812,
+        "last_sfish": 1753395103,
         "inventory": {
-            "wild neocardina shrimp": 7,
-            "blue rii shrimp": 8,
+            "wild neocardina shrimp": 12,
+            "blue rii shrimp": 11,
             "orange rii shrimp": 2,
-            "yellow sakura shrimp": 10,
+            "yellow sakura shrimp": 15,
             "black rii shrimp": 5,
             "yellow rii shrimp": 2,
             "white rii shrimp": 1,
             "bloody mary shrimp": 3,
-            "blue dream shrimp": 1,
+            "blue dream shrimp": 2,
             "red rii shrimp": 1,
             "sakura neocardina shrimp": 1,
-            "blue velvet shrimp": 1,
-            "cherry shrimp": 1,
+            "blue velvet shrimp": 3,
+            "cherry shrimp": 2,
             "golden back yellow shrimp": 1,
-            "yellow fire shrimp": 1,
-            "fire-red neocardina shrimp": 1
+            "yellow fire shrimp": 3,
+            "fire-red neocardina shrimp": 2,
+            "amano shrimp": 1,
+            "blue carbon rii shrimp": 1,
+            "blue diamond shrimp": 1,
+            "orange sakura shrimp": 1
         },
         "stats": {
-            "Grade F": 28,
-            "Grade B": 4,
-            "Grade C": 5,
+            "Grade F": 41,
+            "Grade B": 6,
+            "Grade C": 7,
             "Grade S+": 1,
             "Grade S": 3,
-            "Grade D": 5
+            "Grade D": 11,
+            "Grade A": 1
         }
     },
     "1262644938513055816": {
         "last_sfish": 1753323596,
         "inventory": {
             "blue velvet shrimp": 1
+        },
+        "stats": {
+            "Grade D": 1
+        }
+    },
+    "715857568790216764": {
+        "last_sfish": 1753379771,
+        "inventory": {
+            "orange rii shrimp": 1,
+            "blue dream shrimp": 2
+        },
+        "stats": {
+            "Grade B": 1,
+            "Grade D": 2
+        }
+    },
+    "814623646537744396": {
+        "last_sfish": 1753388160,
+        "inventory": {
+            "cherry shrimp": 1
         },
         "stats": {
             "Grade D": 1

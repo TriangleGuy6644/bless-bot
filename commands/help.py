@@ -55,7 +55,7 @@ class HelpCommand(commands.Cog):
         # reddit
         embed.add_field(
             name="📱 Reddit",
-            value="`!reddit`, `!redditpost / !rt`, `!redditnsfw`, `!cute`, `!cat`, `!femboy`",
+            value="`!reddit`, `!redditpost / !rt`, `!cute`, `!cat`",
             inline=False
         )
 

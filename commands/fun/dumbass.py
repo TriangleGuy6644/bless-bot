@@ -9,6 +9,7 @@ class Mock(commands.Cog):
             "https://media.discordapp.net/attachments/1396954735826960495/1397371335021166682/patrick-s-patrick.gif",
             "https://media.discordapp.net/attachments/1396954735826960495/1397372161194459239/broom-sweep.gif",
             "https://media.discordapp.net/attachments/1396954735826960495/1397372059264356434/bh187-spongebob.gif",
+            "https://media.discordapp.net/attachments/1394449011347292231/1398087091589746768/image.png?ex=68841591&is=6882c411&hm=79bc7b3073c7b686baf4eb67a487cbd03e8cb072bafac7cea304a6455f77733d&=&format=webp&quality=lossless"
         ]
 
     @commands.command(name="patrick", help="Mocks the replied message.", aliases=["dumbass"])
