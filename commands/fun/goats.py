@@ -29,7 +29,7 @@ class Goats(commands.Cog):
             await ctx.send("No goats have been added yet.")
             return
 
-        embed = discord.Embed(title="Certified GOATs", color=discord.Color.gold())
+        embed = discord.Embed(title="The Goats 🥹", color=discord.Color.gold())
         for uid in self.goat_list:
             user = self.bot.get_user(int(uid))
             name = user.mention if user else f"User ID {uid}"
@@ -40,6 +40,10 @@ class Goats(commands.Cog):
     async def add_goat(self, ctx, member: discord.Member):
         if ctx.author.id != OWNER_ID:
             await ctx.send("Only the goatmaster may add new goats.")
+            return
+
+        if len(self.goat_list) >= 5:
+            await ctx.send(f"The goat list is full! Only 5 people can be goats at a time. Remove someone before adding a new one.")
             return
 
         user_id = str(member.id)

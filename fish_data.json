@@ -305,7 +305,7 @@
         }
     },
     "662280043426349057": {
-        "last_fish": 1753403115,
+        "last_fish": 1753410966,
         "inventory": {
             "Flying Fish": 15,
             "Golden Carp": 1,
@@ -317,7 +317,7 @@
             "Sardine": 19,
             "Roach": 11,
             "Bream": 32,
-            "Trout": 30,
+            "Trout": 31,
             "Salmon": 20,
             "Snapper": 3,
             "Eel": 3,
@@ -384,7 +384,7 @@
             "Paradise Carp": 1
         },
         "stats": {
-            "common": 263,
+            "common": 264,
             "legendary": 18,
             "rare": 44,
             "uncommon": 110,
@@ -396,7 +396,7 @@
         }
     },
     "1255341107324260458": {
-        "last_fish": 1753395109,
+        "last_fish": 1753410773,
         "inventory": {
             "Cod": 12,
             "Kraken": 2,
@@ -405,7 +405,7 @@
             "Swordfish": 4,
             "Turtle": 4,
             "Carp": 2,
-            "Common Carp": 10,
+            "Common Carp": 11,
             "Kooli Loach": 1,
             "Sea Bass": 12,
             "Duckweed": 5,
@@ -466,7 +466,7 @@
             "Grouper": 1
         },
         "stats": {
-            "common": 132,
+            "common": 133,
             "legendary": 15,
             "epic": 14,
             "uncommon": 36,
@@ -550,7 +550,7 @@
         }
     },
     "1262644938513055816": {
-        "last_fish": 1753325116,
+        "last_fish": 1753407133,
         "inventory": {
             "Duckweed": 3,
             "Guppy": 1,
@@ -567,10 +567,10 @@
             "Rasbora": 2,
             "Ghost Carp": 1,
             "Tuna": 2,
-            "Turtle": 1,
+            "Turtle": 3,
             "Mirror Carp": 1,
             "Zander": 1,
-            "Sardine": 1,
+            "Sardine": 2,
             "Dragonfly Larvae": 1,
             "Oyster": 2,
             "Flounder": 1,
@@ -586,16 +586,17 @@
             "Neon Tetra": 1,
             "Flying Fish": 1,
             "Redtail Catfish": 1,
-            "Musky": 1
+            "Musky": 1,
+            "Catfish": 1
         },
         "stats": {
-            "common": 24,
+            "common": 25,
             "rare": 6,
             "10000 Cast Special": 1,
             "heavenly": 1,
             "epic": 5,
             "???": 1,
-            "uncommon": 11,
+            "uncommon": 14,
             "ultra rare": 1,
             "legendary": 2
         }
@@ -664,7 +665,7 @@
         }
     },
     "945472354795024385": {
-        "last_fish": 1753398118,
+        "last_fish": 1753410981,
         "inventory": {
             "Herring": 3,
             "Duckweed": 3,
@@ -688,9 +689,9 @@
             "Barramundi": 1,
             "Dragonfly Larvae": 1,
             "Kraken": 1,
-            "Mirror Carp": 2,
+            "Mirror Carp": 3,
             "Golden Carp": 1,
-            "Cod": 3,
+            "Cod": 4,
             "Redtail Catfish": 1,
             "Sea Bass": 1,
             "Snapping Turtle": 2,
@@ -709,13 +710,47 @@
             "Largemouth Bass": 1
         },
         "stats": {
-            "common": 29,
-            "uncommon": 14,
+            "common": 30,
+            "uncommon": 15,
             "legendary": 5,
             "ultra rare": 3,
             "rare": 6,
             "heavenly": 2,
             "epic": 3
+        }
+    },
+    "1211781971961978903": {
+        "last_fish": 1753406342,
+        "inventory": {
+            "Oyster": 1,
+            "Swordfish": 1,
+            "Lilypad": 1,
+            "Tire": 1,
+            "Salmon": 1
+        },
+        "stats": {
+            "uncommon": 1,
+            "epic": 1,
+            "common": 3
+        }
+    },
+    "1064237097617199146": {
+        "last_fish": 1753410986,
+        "inventory": {
+            "Metal Bar": 1,
+            "Cod": 1
+        },
+        "stats": {
+            "common": 2
+        }
+    },
+    "1174105272185278495": {
+        "last_fish": 1753411000,
+        "inventory": {
+            "Cod": 1
+        },
+        "stats": {
+            "common": 1
         }
     }
 }

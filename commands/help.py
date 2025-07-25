@@ -32,7 +32,7 @@ class HelpCommand(commands.Cog):
         # Social & Fun
         embed.add_field(
             name="🎭 Fun & Social",
-            value="`!crack`, `!beer`, `!fban`, `!raid`, `!liedetector`, `!heaven`, `!incinerate`, `!explode`, `!patrick`, `!assassinate`, `!execute`, `!pulverize`, `!ann`",
+            value="`!crack`, `!beer`, `!fban`, `!liedetector`, `!heaven`, `!incinerate`, `!explode`, `!patrick`, `!assassinate`, `!execute`, `!pulverize`, `!ann`",
             inline=False
         )
 
