@@ -305,7 +305,7 @@
         }
     },
     "662280043426349057": {
-        "last_fish": 1753410966,
+        "last_fish": 1753411005,
         "inventory": {
             "Flying Fish": 15,
             "Golden Carp": 1,
@@ -362,7 +362,7 @@
             "Sea Bass": 7,
             "Mirror Carp": 5,
             "Guppy": 2,
-            "Ghost Carp": 1,
+            "Ghost Carp": 2,
             "Lilypad": 7,
             "Largemouth Bass": 8,
             "Newt": 4,
@@ -388,7 +388,7 @@
             "legendary": 18,
             "rare": 44,
             "uncommon": 110,
-            "epic": 35,
+            "epic": 36,
             "ultra rare": 25,
             "mythic": 10,
             "???": 2,
@@ -665,7 +665,7 @@
         }
     },
     "945472354795024385": {
-        "last_fish": 1753410981,
+        "last_fish": 1753411007,
         "inventory": {
             "Herring": 3,
             "Duckweed": 3,
@@ -673,7 +673,7 @@
             "Gigantic Catfish": 1,
             "Trout": 3,
             "Dorado": 1,
-            "Flying Fish": 1,
+            "Flying Fish": 2,
             "Minnow": 2,
             "Metal Bar": 1,
             "Newt": 2,
@@ -710,7 +710,7 @@
             "Largemouth Bass": 1
         },
         "stats": {
-            "common": 30,
+            "common": 31,
             "uncommon": 15,
             "legendary": 5,
             "ultra rare": 3,
