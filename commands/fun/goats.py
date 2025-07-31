@@ -42,7 +42,7 @@ class Goats(commands.Cog):
             await ctx.send("Only the goatmaster may add new goats.")
             return
 
-        if len(self.goat_list) >= 5:
+        if len(self.goat_list) >= 6:
             await ctx.send(f"The goat list is full! Only 5 people can be goats at a time. Remove someone before adding a new one.")
             return
 

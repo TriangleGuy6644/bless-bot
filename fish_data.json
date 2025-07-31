@@ -1,6 +1,6 @@
 {
     "1369175793241952259": {
-        "last_fish": 1753399943,
+        "last_fish": 1753488827,
         "inventory": {
             "Cod": 2,
             "Redtail Catfish": 2,
@@ -19,20 +19,21 @@
             "Smallmouth Bass": 1,
             "Phoenix Fish": 1,
             "Paradise Carp": 1,
-            "Bass": 1
+            "Bass": 1,
+            "Swordfish": 1
         },
         "stats": {
             "legendary": 1,
             "common": 12,
             "uncommon": 5,
             "rare": 4,
-            "epic": 1,
+            "epic": 2,
             "mythic": 1,
             "heavenly": 1
         }
     },
     "758215642460848138": {
-        "last_fish": 1753400273,
+        "last_fish": 1753568495,
         "inventory": {
             "Catfish": 12,
             "Marlin": 10,
@@ -60,10 +61,10 @@
             "Dorado": 7,
             "Tuna": 8,
             "Bass": 10,
-            "Sturgeon": 4,
+            "Sturgeon": 5,
             "Flying Fish": 35,
             "Grouper": 9,
-            "Minnow": 31,
+            "Minnow": 32,
             "Musky": 3,
             "Bream": 21,
             "Flounder": 5,
@@ -78,7 +79,7 @@
             "Blessed Bass": 2,
             "Cthulhu": 1,
             "Seraphim Eel": 3,
-            "Sea Bass": 11,
+            "Sea Bass": 13,
             "Hybrid Carp": 8,
             "Dragonfly Larvae": 4,
             "Lilypad": 10,
@@ -90,7 +91,7 @@
             "Poseidon\u2019s Wrasse": 2,
             "Common Carp": 11,
             "Divine Tuna": 1,
-            "Tire": 10,
+            "Tire": 11,
             "Emerald Rasbora": 5,
             "Frog": 6,
             "Chilli Rasbora": 4,
@@ -121,8 +122,8 @@
         "stats": {
             "uncommon": 129,
             "ultra rare": 50,
-            "epic": 37,
-            "common": 356,
+            "epic": 38,
+            "common": 360,
             "rare": 85,
             "heavenly": 12,
             "mythic": 15,
@@ -131,7 +132,7 @@
         }
     },
     "1189035525227683961": {
-        "last_fish": 1753313880,
+        "last_fish": 1753414922,
         "inventory": {
             "Tuna": 4,
             "Trout": 12,
@@ -143,7 +144,7 @@
             "Tilapia": 7,
             "Roach": 8,
             "Snapper": 2,
-            "Rasbora": 2,
+            "Rasbora": 3,
             "Swordfish": 3,
             "Minnow": 13,
             "Bream": 12,
@@ -178,14 +179,14 @@
             "common": 96,
             "ultra rare": 10,
             "rare": 14,
-            "uncommon": 34,
+            "uncommon": 35,
             "legendary": 5,
             "mythic": 3,
             "heavenly": 1
         }
     },
     "556744853262827521": {
-        "last_fish": 1753388025,
+        "last_fish": 1753414304,
         "inventory": {
             "Cod": 2,
             "Mackerel": 2,
@@ -208,10 +209,11 @@
             "Flying Fish": 1,
             "Swordfish": 1,
             "Sunfish": 1,
-            "Tilapia": 1
+            "Tilapia": 1,
+            "Bream": 1
         },
         "stats": {
-            "common": 10,
+            "common": 11,
             "rare": 3,
             "uncommon": 9,
             "ultra rare": 1,
@@ -220,17 +222,17 @@
         }
     },
     "1374741838220496906": {
-        "last_fish": 1753243973,
+        "last_fish": 1753518845,
         "inventory": {
             "Sardine": 4,
             "Perch": 1,
             "Tarpon": 1,
             "Cod": 3,
-            "Catfish": 3,
+            "Catfish": 4,
             "Celestial Koi": 1,
-            "Trout": 3,
+            "Trout": 4,
             "Swordfish": 1,
-            "Herring": 2,
+            "Herring": 3,
             "Bass": 1,
             "Pike": 2,
             "Musky": 1,
@@ -241,17 +243,23 @@
             "Bream": 1,
             "Kraken": 1,
             "Roach": 1,
-            "Salmon": 1,
-            "Paradise Carp": 1
+            "Salmon": 3,
+            "Paradise Carp": 1,
+            "Cherry Shrimp": 1,
+            "Flying Fish": 1,
+            "Tire": 1,
+            "Dragonfly Larvae": 1,
+            "Leviathan": 1,
+            "Largemouth Bass": 1
         },
         "stats": {
-            "common": 14,
-            "uncommon": 7,
-            "ultra rare": 3,
+            "common": 21,
+            "uncommon": 9,
+            "ultra rare": 4,
             "mythic": 1,
             "epic": 1,
             "rare": 4,
-            "legendary": 2,
+            "legendary": 3,
             "heavenly": 1
         }
     },
@@ -268,7 +276,7 @@
         }
     },
     "1359773294651244625": {
-        "last_fish": 1753337239,
+        "last_fish": 1753766894,
         "inventory": {
             "Leviathan": 1,
             "Roach": 1,
@@ -276,12 +284,14 @@
             "Lilypad": 2,
             "Frog": 1,
             "Amano Shrimp": 1,
-            "Minnow": 1
+            "Minnow": 1,
+            "Turtle": 1,
+            "Bream": 1
         },
         "stats": {
             "legendary": 1,
-            "uncommon": 2,
-            "common": 4,
+            "uncommon": 3,
+            "common": 5,
             "ultra rare": 1
         }
     },
@@ -305,41 +315,41 @@
         }
     },
     "662280043426349057": {
-        "last_fish": 1753411005,
+        "last_fish": 1753992059,
         "inventory": {
-            "Flying Fish": 15,
-            "Golden Carp": 1,
-            "Flounder": 5,
-            "Rasbora": 15,
-            "Bass": 7,
-            "Herring": 23,
-            "Minnow": 27,
-            "Sardine": 19,
-            "Roach": 11,
-            "Bream": 32,
-            "Trout": 31,
-            "Salmon": 20,
-            "Snapper": 3,
-            "Eel": 3,
-            "Zander": 8,
-            "Perch": 11,
-            "Swordfish": 9,
+            "Flying Fish": 20,
+            "Golden Carp": 2,
+            "Flounder": 6,
+            "Rasbora": 17,
+            "Bass": 8,
+            "Herring": 26,
+            "Minnow": 32,
+            "Sardine": 22,
+            "Roach": 12,
+            "Bream": 41,
+            "Trout": 38,
+            "Salmon": 27,
+            "Snapper": 6,
+            "Eel": 4,
+            "Zander": 13,
+            "Perch": 14,
+            "Swordfish": 11,
             "Halibut": 6,
-            "Leviathan": 2,
-            "Cod": 30,
-            "Oyster": 13,
-            "Catfish": 10,
-            "Musky": 4,
+            "Leviathan": 3,
+            "Cod": 35,
+            "Oyster": 14,
+            "Catfish": 11,
+            "Musky": 6,
             "Tarpon": 4,
-            "Redtail Catfish": 14,
-            "Tuna": 5,
+            "Redtail Catfish": 17,
+            "Tuna": 7,
             "Sturgeon": 7,
-            "Carp": 12,
+            "Carp": 18,
             "Kraken": 4,
-            "Dragonfish": 3,
-            "Pike": 6,
-            "Marlin": 1,
-            "Tilapia": 8,
+            "Dragonfish": 5,
+            "Pike": 7,
+            "Marlin": 2,
+            "Tilapia": 9,
             "Poseidon\u2019s Wrasse": 3,
             "Celestial Koi": 2,
             "Mackerel": 7,
@@ -350,53 +360,60 @@
             "Dorado": 5,
             "Blessed Bass": 2,
             "Ancient Salmon": 1,
-            "Gigantic Catfish": 5,
-            "Duckweed": 8,
-            "Sunfish": 9,
-            "Smallmouth Bass": 11,
-            "Metal Bar": 4,
-            "Dragonfly Larvae": 2,
-            "Common Carp": 8,
-            "Kooli Loach": 3,
+            "Gigantic Catfish": 6,
+            "Duckweed": 10,
+            "Sunfish": 13,
+            "Smallmouth Bass": 13,
+            "Metal Bar": 5,
+            "Dragonfly Larvae": 4,
+            "Common Carp": 11,
+            "Kooli Loach": 5,
             "Neon Tetra": 1,
-            "Sea Bass": 7,
-            "Mirror Carp": 5,
-            "Guppy": 2,
+            "Sea Bass": 19,
+            "Mirror Carp": 9,
+            "Guppy": 3,
             "Ghost Carp": 2,
-            "Lilypad": 7,
-            "Largemouth Bass": 8,
-            "Newt": 4,
+            "Lilypad": 9,
+            "Largemouth Bass": 13,
+            "Newt": 5,
             "Oarfish": 1,
-            "Goldfish": 1,
-            "Tire": 7,
-            "Scandinavian Perch": 2,
-            "Starfish": 2,
-            "Turtle": 2,
-            "Chilli Rasbora": 2,
+            "Goldfish": 2,
+            "Tire": 11,
+            "Scandinavian Perch": 4,
+            "Starfish": 5,
+            "Turtle": 4,
+            "Chilli Rasbora": 4,
             "Holy Pike": 1,
-            "Snapping Turtle": 2,
-            "Hybrid Carp": 1,
+            "Snapping Turtle": 7,
+            "Hybrid Carp": 2,
             "Jellyfish": 1,
             "Cthulhu": 1,
             "Albino Pike": 1,
-            "Frog": 1,
+            "Frog": 3,
             "Electric Eel": 1,
-            "Paradise Carp": 1
+            "Paradise Carp": 1,
+            "Albino Musky": 1,
+            "Emerald Rasbora": 3,
+            "Amano Shrimp": 3,
+            "Moco Fish": 2,
+            "Cherry Shrimp": 2,
+            "Electric Jellyfish": 1
         },
         "stats": {
-            "common": 264,
-            "legendary": 18,
-            "rare": 44,
-            "uncommon": 110,
-            "epic": 36,
-            "ultra rare": 25,
-            "mythic": 10,
-            "???": 2,
-            "heavenly": 6
+            "common": 343,
+            "legendary": 25,
+            "rare": 65,
+            "uncommon": 144,
+            "epic": 43,
+            "ultra rare": 33,
+            "mythic": 13,
+            "???": 3,
+            "heavenly": 6,
+            "10000 Cast Special": 1
         }
     },
     "1255341107324260458": {
-        "last_fish": 1753410773,
+        "last_fish": 1753465927,
         "inventory": {
             "Cod": 12,
             "Kraken": 2,
@@ -438,7 +455,7 @@
             "Rasbora": 4,
             "Catfish": 2,
             "Golden Carp": 3,
-            "Trout": 8,
+            "Trout": 9,
             "Asian Stone Catfish": 1,
             "Hybrid Carp": 1,
             "Scandinavian Perch": 3,
@@ -466,7 +483,7 @@
             "Grouper": 1
         },
         "stats": {
-            "common": 133,
+            "common": 134,
             "legendary": 15,
             "epic": 14,
             "uncommon": 36,
@@ -478,7 +495,7 @@
         }
     },
     "814623646537744396": {
-        "last_fish": 1753398386,
+        "last_fish": 1753757969,
         "inventory": {
             "Duckweed": 1,
             "Minnow": 1,
@@ -489,22 +506,30 @@
             "Lilypad": 1,
             "Common Carp": 2,
             "Paradise Carp": 1,
-            "Salmon": 1,
+            "Salmon": 2,
             "Hybrid Carp": 1,
             "Smallmouth Bass": 1,
             "Phoenix Fish": 1,
-            "Musky": 1
+            "Musky": 1,
+            "Catfish": 1,
+            "Tilapia": 1,
+            "Roach": 1,
+            "Trout": 1,
+            "Zander": 1,
+            "Dragonfish": 1,
+            "Ancient Salmon": 1
         },
         "stats": {
-            "common": 12,
+            "common": 14,
             "heavenly": 1,
-            "rare": 1,
-            "mythic": 1,
-            "legendary": 1
+            "rare": 2,
+            "mythic": 2,
+            "legendary": 2,
+            "uncommon": 3
         }
     },
     "715857568790216764": {
-        "last_fish": 1753379767,
+        "last_fish": 1753601040,
         "inventory": {
             "Carp": 3,
             "Albino Pike": 1,
@@ -515,14 +540,14 @@
             "Amano Shrimp": 1,
             "Halibut": 1,
             "Black Seal": 1,
-            "Sea Bass": 2,
+            "Sea Bass": 3,
             "Scandinavian Perch": 1,
             "Frog": 1,
             "Herring": 1,
             "Catfish": 2,
             "Rasbora": 1,
             "Flying Fish": 4,
-            "Metal Bar": 1,
+            "Metal Bar": 2,
             "Ancient Salmon": 1,
             "Duckweed": 1,
             "Musky": 1,
@@ -536,13 +561,15 @@
             "Dragonfly Larvae": 1,
             "Zander": 1,
             "Tilapia": 1,
-            "Neon Tetra": 1
+            "Neon Tetra": 1,
+            "Salmon": 1,
+            "Newt": 1
         },
         "stats": {
-            "uncommon": 11,
+            "uncommon": 12,
             "legendary": 3,
             "mythic": 1,
-            "common": 18,
+            "common": 21,
             "rare": 6,
             "ultra rare": 2,
             "???": 1,
@@ -550,12 +577,12 @@
         }
     },
     "1262644938513055816": {
-        "last_fish": 1753407133,
+        "last_fish": 1753684642,
         "inventory": {
             "Duckweed": 3,
             "Guppy": 1,
             "Albino Musky": 1,
-            "Trout": 4,
+            "Trout": 6,
             "Lilypad": 2,
             "Salmon": 2,
             "Divine Tuna": 1,
@@ -570,11 +597,11 @@
             "Turtle": 3,
             "Mirror Carp": 1,
             "Zander": 1,
-            "Sardine": 2,
+            "Sardine": 3,
             "Dragonfly Larvae": 1,
             "Oyster": 2,
             "Flounder": 1,
-            "Largemouth Bass": 1,
+            "Largemouth Bass": 3,
             "Sunfish": 1,
             "Marlin": 1,
             "Tire": 2,
@@ -587,18 +614,22 @@
             "Flying Fish": 1,
             "Redtail Catfish": 1,
             "Musky": 1,
-            "Catfish": 1
+            "Catfish": 1,
+            "Carp": 1,
+            "Leviathan": 1,
+            "Perch": 1,
+            "Tarpon": 1
         },
         "stats": {
-            "common": 25,
+            "common": 30,
             "rare": 6,
             "10000 Cast Special": 1,
             "heavenly": 1,
             "epic": 5,
             "???": 1,
-            "uncommon": 14,
-            "ultra rare": 1,
-            "legendary": 2
+            "uncommon": 16,
+            "ultra rare": 2,
+            "legendary": 3
         }
     },
     "1395156550552653944": {
@@ -649,9 +680,23 @@
     },
     "965662029870428181": {
         "inventory": {
-            "Cthulu": 5000
+            "Cthulu": 5000,
+            "Ghost Carp": 1,
+            "Metal Bar": 2,
+            "Trout": 1,
+            "Chilli Rasbora": 1,
+            "Gigantic Catfish": 1,
+            "Albino Pike": 1,
+            "Kooli Loach": 1
         },
-        "stats": {}
+        "stats": {
+            "epic": 1,
+            "common": 3,
+            "rare": 1,
+            "legendary": 2,
+            "ultra rare": 1
+        },
+        "last_fish": 1753770418
     },
     "547208069462097952": {
         "last_fish": 1753387955,
@@ -665,15 +710,15 @@
         }
     },
     "945472354795024385": {
-        "last_fish": 1753411007,
+        "last_fish": 1753473942,
         "inventory": {
-            "Herring": 3,
+            "Herring": 4,
             "Duckweed": 3,
             "Oyster": 4,
             "Gigantic Catfish": 1,
             "Trout": 3,
             "Dorado": 1,
-            "Flying Fish": 2,
+            "Flying Fish": 3,
             "Minnow": 2,
             "Metal Bar": 1,
             "Newt": 2,
@@ -683,23 +728,23 @@
             "Zander": 1,
             "Angel Fish": 1,
             "Sunfish": 3,
-            "Lilypad": 1,
+            "Lilypad": 2,
             "Pike": 1,
             "Mackerel": 1,
             "Barramundi": 1,
             "Dragonfly Larvae": 1,
             "Kraken": 1,
-            "Mirror Carp": 3,
+            "Mirror Carp": 4,
             "Golden Carp": 1,
             "Cod": 4,
-            "Redtail Catfish": 1,
+            "Redtail Catfish": 2,
             "Sea Bass": 1,
             "Snapping Turtle": 2,
             "Amano Shrimp": 1,
-            "Sardine": 1,
+            "Sardine": 2,
             "Eel": 1,
             "Ancient Salmon": 1,
-            "Carp": 1,
+            "Carp": 2,
             "Common Carp": 2,
             "Grouper": 1,
             "Scandinavian Perch": 1,
@@ -707,16 +752,19 @@
             "Emerald Rasbora": 1,
             "Musky": 1,
             "Paradise Carp": 1,
-            "Largemouth Bass": 1
+            "Largemouth Bass": 1,
+            "Turtle": 1,
+            "Smallmouth Bass": 1,
+            "Sturgeon": 1
         },
         "stats": {
-            "common": 31,
-            "uncommon": 15,
+            "common": 36,
+            "uncommon": 19,
             "legendary": 5,
             "ultra rare": 3,
             "rare": 6,
             "heavenly": 2,
-            "epic": 3
+            "epic": 4
         }
     },
     "1211781971961978903": {
@@ -735,22 +783,118 @@
         }
     },
     "1064237097617199146": {
-        "last_fish": 1753410986,
+        "last_fish": 1753908375,
         "inventory": {
-            "Metal Bar": 1,
-            "Cod": 1
+            "Metal Bar": 4,
+            "Cod": 4,
+            "Chilli Rasbora": 1,
+            "Tire": 2,
+            "Herring": 2,
+            "Sea Bass": 3,
+            "Trout": 5,
+            "Tuna": 2,
+            "Sunfish": 4,
+            "Common Carp": 4,
+            "Perch": 2,
+            "Largemouth Bass": 5,
+            "Newt": 2,
+            "Lilypad": 5,
+            "Neon Tetra": 3,
+            "Frog": 2,
+            "Bass": 1,
+            "Marlin": 2,
+            "Flounder": 1,
+            "Sturgeon": 2,
+            "Cherry Shrimp": 1,
+            "Barramundi": 3,
+            "Ghost Carp": 1,
+            "Dragonfish": 1,
+            "Minnow": 2,
+            "Duckweed": 2,
+            "Mackerel": 2,
+            "Bream": 5,
+            "Musky": 1,
+            "Mirror Carp": 1,
+            "Smallmouth Bass": 3,
+            "Eldritch Eel": 1,
+            "Zander": 1,
+            "Swordfish": 1,
+            "Catfish": 1,
+            "Oyster": 1,
+            "Grouper": 1,
+            "Moco Fish": 1,
+            "Snapping Turtle": 1,
+            "Carp": 2,
+            "Flying Fish": 2,
+            "Salmon": 1,
+            "Emerald Rasbora": 1,
+            "Sardine": 1
         },
         "stats": {
-            "common": 2
+            "common": 54,
+            "rare": 10,
+            "epic": 9,
+            "uncommon": 12,
+            "ultra rare": 4,
+            "mythic": 1,
+            "legendary": 2,
+            "???": 1
         }
     },
     "1174105272185278495": {
-        "last_fish": 1753411000,
+        "last_fish": 1753411112,
         "inventory": {
-            "Cod": 1
+            "Cod": 1,
+            "Turtle": 1,
+            "Ghost Carp": 1
         },
         "stats": {
+            "common": 1,
+            "uncommon": 1,
+            "epic": 1
+        }
+    },
+    "1384893288309592064": {
+        "last_fish": 1753420702,
+        "inventory": {
+            "Roach": 1
+        },
+        "stats": {
+            "uncommon": 1
+        }
+    },
+    "778591419299266561": {
+        "last_fish": 1753449249,
+        "inventory": {
+            "Grouper": 1,
+            "Sea Bass": 1
+        },
+        "stats": {
+            "ultra rare": 1,
             "common": 1
+        }
+    },
+    "1304575626841165849": {
+        "last_fish": 1753475736,
+        "inventory": {
+            "Carp": 1,
+            "Flying Fish": 1,
+            "Minnow": 1,
+            "Bream": 1
+        },
+        "stats": {
+            "uncommon": 1,
+            "common": 3
+        }
+    },
+    "1399169468416131143": {
+        "last_fish": 1753846368,
+        "inventory": {
+            "Grouper": 1,
+            "Cherry Shrimp": 1
+        },
+        "stats": {
+            "ultra rare": 2
         }
     }
 }
